@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#form{
+    
+    border: 1px solid rgb(212, 212, 212);
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    margin-top: 7%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-bottom: 70px;
+    border-radius: 20px;
+}
+#form>input{
+
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+    margin-top: 20px;
+    
+}
+#batch{
+
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+    margin-top: 20px;
+}
+#navbar{
+
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    border: 1px solid rgb(202, 202, 202);
+    width: 100%;
+}
+#select{
+    height: 30px;
+   margin-top: auto;
+   margin-bottom: auto;
+}
+#output{
+
+    font-size: 30px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -550px;
+    font-weight: bolder;
+}
+#heading{
+
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: -50px;
+}
+#submit{
+
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+}
+button{
+
+    height: 60%;
+    width: auto;
+    margin: auto;
+    margin-left: 20px;
+    padding: 5px;
+}
+#top{
+
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#studentsEnroll{
+
+    margin-left: 20px;
+}
+
